@@ -3,7 +3,7 @@
 # Pattern Generator in Python
 
 ## Description
-This project is a Python-based Pattern Generator that creates different star (`*`) patterns using loops, functions, and file handling. The program demonstrates fundamental Python programming concepts by generating various triangle and pyramid patterns and saving the output to a file.
+This project is a Python-based Pattern Generator that creates different  patterns using loops, functions, and file handling. The program demonstrates fundamental Python programming concepts by generating various triangle and pyramid patterns and saving the output to a file.
 
 ## Features
 - Right-Angled Triangle (RAT)
